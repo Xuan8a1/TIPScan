@@ -1,0 +1,43 @@
+{
+  "server": {
+    "base_url": "https://www.cn-fnst.top/ThreatIPScan/api"
+  },
+  "headers": {
+    "Host": "x.threatbook.com",
+    "Connection": "keep-alive",
+    "sec-ch-ua-platform": "Windows",
+    "X-csrf-token": "oaL9yajw7buUXukouVo0EXeR",
+    "sec-ch-ua": "\"Chromium\";v=\"136\", \"Microsoft Edge\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "user-id": "undefined",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0",
+    "Content-Type": "application/json",
+    "xx-csrf": "8f3c51da3d386acf702dae9bff02ce285882adab",
+    "Accept": "*/*",
+    "Origin": "https://x.threatbook.com",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+    "Cookie": "sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22a3a64ed47e904c50b3cd317a49540623%22%2C%22first_id%22%3A%22190af15d7ad438-075890664270cb8-4c657b58-1128960-190af15d7ae125%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTkwYWYxNWQ3YWQ0MzgtMDc1ODkwNjY0MjcwY2I4LTRjNjU3YjU4LTExMjg5NjAtMTkwYWYxNWQ3YWUxMjUiLCIkaWRlbnRpdHlfbG9naW5faWQiOiJhM2E2NGVkNDdlOTA0YzUwYjNjZDMxN2E0OTU0MDYyMyJ9%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%22a3a64ed47e904c50b3cd317a49540623%22%7D%2C%22%24device_id%22%3A%22190af15d7ad438-075890664270cb8-4c657b58-1128960-190af15d7ae125%22%7D; loginReceive=false; hwIsNoLogin=2; csrfToken=oaL9yajw7buUXukouVo0EXeR; day_first_activity=true; day_first=true; rememberme=8f3c51da3d386acf702dae9bff02ce285882adab|b2cefb5248984bc3bff1234f5cd7c1c0|1748941849503|public|w; xx-csrf=8f3c51da3d386acf702dae9bff02ce285882adab; BotMitigationCookie_1969904701684545095=\"214076001748956994/cbLp+mgkJOKFjDR28zBc2AlVZY=\""
+  },
+  "urls": {
+    "save_article": "https://x.threatbook.com/v5/node/user/article/save",
+    "get_ioc_info": "https://x.threatbook.com/v5/node/user/article/getIocInfo"
+  },
+  "default_params": {
+    "page": 1,
+    "pagesize": 5,
+    "type": "ip"
+  },
+  "article_data": {
+    "content": "1",
+    "imgList": [],
+    "iocList": [],
+    "sampleList": [],
+    "anonymous": false,
+    "shortMessageId": 160811,
+    "fileList": []
+  }
+}
