@@ -1,0 +1,29 @@
+{
+  "api_url": "https://intelligenceweb.zhhainiao.com/api/proxy/common/request",
+  "headers": {
+    "Host": "intelligenceweb.zhhainiao.com",
+    "Connection": "keep-alive",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "X-Cf-Device-Id": "test_device_id_787434",
+    "Content-Type": "application/json",
+    "Accept": "application/json, text/plain, */*",
+    "X-Cf-Platform": "browser",
+    "X-Cf-Appid": "intelligenceweb",
+    "X-Cf-Path": "datacenter/api/v1/ipaddr",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "https://ti.duba.net",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "Referer": "https://ti.duba.net/",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9"
+  },
+  "auth_params": {
+    "uid": "2972826987309",
+    "token": "686bca4d-2b42a4beb2d-5b74d04f0904f32a_aa74be"
+  },
+  "bb": "1.5",
+  "gxlj": "null"
+}
